@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### About Me
+
+I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore! I am regular to Competitive Coding ,and have my area of interest in Web Development and Cloud projects. I ❤ contributing to Open Source.
+
 <!--
 **sreechand2002/sreechand2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
