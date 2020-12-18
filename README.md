@@ -7,8 +7,7 @@ I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Engineer
 <!--
 **sreechand2002/sreechand2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sreechand2002&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sreechand2002)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
