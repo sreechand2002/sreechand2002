@@ -7,7 +7,7 @@ I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Engineer
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sreechand2002)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sreechand2002&show_icons=true)]()
 
 ### Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreechand2002&langs_count=8)]()
