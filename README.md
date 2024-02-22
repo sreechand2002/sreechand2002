@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore! My interest lies in web development, app development and computer vision and have been workingon these fields for quite sometime. I ❤ contributing to Open Source.
+I am a CSE postgraduate student at the Indian Institute of Science, Bangalore! My interest lies in web development, app development, and computer vision, and I have been working in these fields for quite some time. I ❤ contributing to Open Source.
 
 
 
